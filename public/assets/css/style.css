@@ -261,5 +261,12 @@ body {
 }
 
 .truck-route-list {
-    
+    width: 50%;
+    height: 60px;
+    margin: 30px;
+    border-radius: 3px;
+    background-color: #DEF5E5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
